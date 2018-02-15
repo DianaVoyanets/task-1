@@ -1,0 +1,226 @@
+html,
+body {
+  width: 1044px;
+  height: auto;
+}
+main {
+  width: 2088px;
+  height: 1200px;
+}
+section {
+  width: 1044px;
+  height: 1090px;
+}
+header {
+  display: block;
+  width: 1044px;
+  height: 672px;
+}
+header img.background {
+  width: 52%;
+  height: 100%;
+}
+header img.myphoto {
+  width: 48%;
+  height: 100%;
+}
+header p.front-end {
+  font-family: Helvetica, Bold;
+  width: 288px;
+  height: 29px;
+  position: absolute;
+  top: 65px;
+  left: 648px;
+  font-size: 24px;
+  color: #fff;
+  line-height: 29px;
+}
+header p.name {
+  font-family: Helvetica, Bold;
+  position: absolute;
+  width: 464px;
+  height: 48px;
+  top: 105px;
+  left: 648px;
+  font-size: 40px;
+  color: #fff;
+  line-height: 48px;
+}
+section {
+  width: 944px;
+  height: 600px;
+}
+section h1,
+section.shri_expectation,
+section.summary {
+  position: relative;
+  font-family: Helvetica-Bold;
+  color: #000;
+  font-size: 40px;
+  line-height: 48px;
+  width: 371px;
+  height: 48px;
+  margin: 0;
+  padding: 106px 821px 38px 32px;
+}
+section div.container {
+  position: relative;
+  width: 100%;
+  height: 74%;
+  background-color: rgba(60,174,90,0.9);
+  margin-left: 32px;
+}
+section div.container h1 {
+  font-family: helvetica, bold;
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+  padding-left: 32px;
+  padding-top: 25px;
+}
+section div.container p {
+  size: 16px;
+  font-family: Georgia;
+  padding-left: 32px;
+}
+section div.Exknowledge,
+section div.university {
+  float: left;
+  width: 60%;
+  height: 50%;
+  border-right: 10px solid #fff;
+  border-bottom: 10px solid #fff;
+}
+section div.Exknowledge p,
+section div.university p {
+  width: 432px;
+  height: 80px;
+  padding-top: 30px;
+}
+section div.Exknowledge h1,
+section div.university h1 {
+  width: 250px;
+  height: 48px;
+}
+section div.experience,
+section div.knowledge {
+  float: right;
+  width: 38.94%;
+  height: 50%;
+  border-bottom: 10px solid #fff;
+}
+section div.experience p,
+section div.knowledge p {
+  width: 304px;
+  height: 80px;
+  padding-right: 48px;
+  padding-top: 60px;
+}
+section div.experience h1,
+section div.knowledge h1 {
+  width: 300px;
+}
+section div.teacher,
+section div.language {
+  float: left;
+  width: 40%;
+  height: 50%;
+  border-right: 10px solid #fff;
+}
+section div.teacher p,
+section div.language p {
+  width: 232px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+section div.teacher h1,
+section div.language h1 {
+  width: 350px;
+}
+section div div.employment,
+section div div.programs {
+  float: right;
+  width: 58.9%;
+  height: 50%;
+}
+section div div.employment p,
+section div div.programs p {
+  width: 400px;
+  height: 64px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+footer {
+  position: relative;
+  margin-top: 143px;
+  background-color: #a5d6a7;
+  width: 1044px;
+  height: 795px;
+}
+footer h1.contactInf {
+  position: absolute;
+  font-size: 40px;
+  font-family: Helvetica;
+  padding-left: 38px;
+  padding-top: 81px;
+  width: 503px;
+  height: 48px;
+}
+footer .footerInf {
+  position: relative;
+  font-size: 16px;
+  font-family: Georgia;
+  padding-left: 38px;
+  padding-top: 200px;
+  padding-bottom: 0;
+  margin: 0;
+  width: 304px;
+  height: 180px;
+}
+footer p.soc-network {
+  color: #000;
+  padding-left: 25px;
+  font-weight: bold;
+}
+footer ul {
+  position: relative;
+  padding-left: 38px;
+  width: 180px;
+  height: 147px;
+  list-style-type: square;
+  color: rgba(60,174,90,0.9);
+  border-radius: 2px;
+  line-height: 30px;
+}
+footer li span {
+  color: #dd3e18;
+  font-size: 18px;
+  vertical-align: middle;
+}
+footer a {
+  text-decoration: none;
+}
+footer form {
+  position: absolute;
+  top: 400px;
+  right: 150px;
+  width: 544px;
+  height: 351px;
+}
+footer form input[type = 'text'] {
+  width: 544px;
+  height: 48px;
+}
+footer form textarea {
+  resize: none;
+  padding: 0;
+  width: 546px;
+  height: 192px;
+}
+footer form button {
+  width: 548px;
+  height: 49px;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #dd3e18;
+}
